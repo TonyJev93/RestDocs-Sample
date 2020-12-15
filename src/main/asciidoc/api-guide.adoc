@@ -1,0 +1,12 @@
+= RestDocsTest
+
+== RestDocs를 생성합니다.
+
+
+include::{snippets}/rest-docs-test-controller-test/index-test/1/curl-request.adoc[]
+include::{snippets}/rest-docs-test-controller-test/index-test/1/http-request.adoc[]
+include::{snippets}/rest-docs-test-controller-test/index-test/1/http-response.adoc[]
+include::{snippets}/rest-docs-test-controller-test/index-test/1/httpie-request.adoc[]
+include::{snippets}/rest-docs-test-controller-test/index-test/1/links.adoc[]
+include::{snippets}/rest-docs-test-controller-test/index-test/1/response-body.adoc[]
+include::{snippets}/rest-docs-test-controller-test/index-test/1/response-fields.adoc[]

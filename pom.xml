@@ -8,10 +8,17 @@
         <version>2.4.0</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
+<<<<<<< HEAD
     <groupId>com.tonyJev93.restdocs.ex</groupId>
     <artifactId>RestDocs-example</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>restdocs-example</name>
+=======
+    <groupId>com.tonyJev93.junit5.ex</groupId>
+    <artifactId>RestDocs-example</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <name>junit-example</name>
+>>>>>>> 9103aad96bb0a34f86d130c51c64a4334e96a6cf
     <description>Demo project for Spring Boot</description>
 
     <properties>
